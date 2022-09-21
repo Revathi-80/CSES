@@ -1,2 +1,2 @@
-# AtCoder
-AtCoder contest code snippets
+# CSES
+CSES problem solution
